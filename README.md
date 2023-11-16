@@ -58,3 +58,8 @@ https://www.scconline.com/blog/post/category/experts_corner/',
 https://www.scconline.com/blog/post/category/casebriefs/',
 https://www.scconline.com/post/category/legislationupdates/',
 https://www.scconline.com/blog/post/category/law-made-easy/'
+
+
+---- TekCorp Limited (Completed Web Scrapping Sites)
+https://www.lawweb.in
+https://lawbhoomi.com/law-notes/
