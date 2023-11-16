@@ -49,4 +49,12 @@ https://www.indialegallive.com/
 
 https://articles.manupatra.com/#
 https://cleartax.in/s/sitemap.xml
-https://www.livelaw.in/
+
+https://www.livelaw.in/articles | https://www.livelaw.in/know-the-law | https://www.livelaw.in/digests | https://www.livelaw.in/lawschool/articles | https://www.livelaw.in/law-firms/law-firm-articles-
+
+https://www.scconline.com/blog/post/category/op-ed/legal-analysis/' | https://www.scconline.com/blog/post/category/op-ed/scc-journal-section/',
+https://www.scconline.com/blog/post/category/op-ed/practical-lawyer-archives/',
+https://www.scconline.com/blog/post/category/experts_corner/',
+https://www.scconline.com/blog/post/category/casebriefs/',
+https://www.scconline.com/post/category/legislationupdates/',
+https://www.scconline.com/blog/post/category/law-made-easy/'
